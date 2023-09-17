@@ -3,6 +3,6 @@
 * it reduces maintaining a record to keep track above moto.
 * it reduces manual writing or typing into an excel sheet.
 
-* final output i.e classified and detailed monthly expenditure of a bill is shown above,
+* System architecture,final output i.e classified and detailed monthly expenditure of a bill and plagiarism report are given above,
 contact the author for more information related to this project.
 

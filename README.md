@@ -3,6 +3,6 @@
 * it reduces maintaining a record to keep track above moto.
 * it reduces manual writing or typing into an excel sheet.
 
-* final classified and detailed expenditure of a bill is shown,
+* final output i.e classified and detailed expenditure of a bill is shown above,
 contact the author for more information related to this project.
 
